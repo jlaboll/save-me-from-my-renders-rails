@@ -1,0 +1,3 @@
+module SaveMeFromMyRendersRails
+  VERSION = "0.1.0"
+end
